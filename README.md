@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-1. ###### [Technology Used](https://github.com/MohdAzmaan1/book_my_show_project/blob/master/README.md#techonology-used)
+1. ###### [Technology Used]
 
-2. ###### [EER Diagram](https://github.com/MohdAzmaan1/book_my_show_project/blob/master/README.md#eer-diagram-1)
+2. ###### [EER Diagram]
  
-3. ###### [Functionalities](https://github.com/MohdAzmaan1/book_my_show_project/blob/master/README.md#functionalities-1)
+3. ###### [Functionalities]
 
-4. ###### [Postman Commands](https://github.com/MohdAzmaan1/book_my_show_project/blob/master/README.md#postman-commands-1)
+4. ###### [Postman Commands]
 
 
 
