@@ -74,7 +74,7 @@
 
 ###### To Add User:
 
-	localhost:8080/user/add
+	localhost:1234/user/add
 
 	{
       "name": "String",
@@ -88,7 +88,7 @@
 
 ###### To Add Theater:
 	
-	localhost:8080/theater/add
+	localhost:1234/theater/add
 
 	{
       "name": "String",
@@ -100,7 +100,7 @@
 
 ###### To Add Movies:
 
-	localhost:8080/movies/add
+	localhost:1234/movies/add
 
 	{
       "movieName": "String",
@@ -115,7 +115,7 @@
 
 ###### To Add Shows:
 	
-	localhost:8080/shows/add
+	localhost:1234/shows/add
 
 	{
       "movieId":int,
@@ -131,7 +131,7 @@
 	
 ###### To Book Ticket:	
 
-	localhost:8080/tickets/book
+	localhost:1234/tickets/book
   
     {
       "showId": int,
